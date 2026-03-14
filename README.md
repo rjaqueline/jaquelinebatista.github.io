@@ -1,2 +1,3 @@
 # jaquelinebatista.github.io
-Aprendendo
+#Mobile & Automation Developer
+Building real-world tools with Flutter and Python
