@@ -1,3 +1,6 @@
 # jaquelinebatista.github.io
-Mobile & Automation Developer
-Building real-world tools with Flutter and Python
+# Jaqueline Batista
+
+Mobile Developer | Automation Tools
+
+Construindo soluções reais com Flutter e Python.
